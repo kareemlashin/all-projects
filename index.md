@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kareemlashin/all-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kareemlashin/all-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+react.js
+-----
+https://reduxmovie.herokuapp.com/
+https://reactrud.herokuapp.com/
+https://coronavirusreact.herokuapp.com/
+----------------------------------------------------------
+vue.js
+---
+https://distracted-bhabha-61c076.netlify.app/
+https://dreamy-wiles-a2b15d.netlify.app/
+https://xenodochial-kepler-91e474.netlify.app/
+----------------------------------------------------------
+angular +2
+-------
+https://kareemlashin.github.io/angular-movie/
+https://kareemlashin.github.io/movieAngular/
+https://kareemlashin.github.io/banha-restaurants/
+https://kareemlashin.github.io/elbalto-angular/
+https://kareemlashin.github.io/crud-angular-ngxs/
+https://kareemlashin.github.io/covid/
+----------------------------------------------------------
+JQuery
+-----
+https://kareemlashin.github.io/mashaer/
+https://kareemlashin.github.io/bootstrab---six/
+https://kareemlashin.github.io/date/
+https://kareemlashin.github.io/cofid-19-test/
+https://kareemlashin.github.io/cofid-ajax/
+https://kareemlashin.github.io/azkar/
+https://kareemlashin.github.io/Pythagoras/
+https://kareemlashin.github.io/dashborad-cofid/
+https://kareemlashin.github.io/books-website/
+https://kareemlashin.github.io/dashboard-school/
+https://kareemlashin.github.io/exam-system-dynamic/
+https://kareemlashin.github.io/protoflio/
+https://kareemlashin.github.io/new-one-page-arabic-temp/
+https://kareemlashin.github.io/template-Aribic/
+https://kareemlashin.github.io/main-protoflio/
+https://kareemlashin.github.io/-portfolio/
+https://kareemlashin.github.io/portfolio-main/
+https://kareemlashin.github.io/portfolio-kareem/
+https://kareemlashin.github.io/web-site-one-arabic/
+https://kareemlashin.github.io/testing/
+https://kareemlashin.github.io/tempCalc/
+https://kareemlashin.github.io/mangemant-doctor/
